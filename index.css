@@ -8,9 +8,9 @@ body {
 }
 
 #header img {
-    border-radius: 30%;
+    border-radius: 50%;
     width: 150px;
-    border-width: 4px;
+    border-width: 5px;
     border-style: solid;
     border-color: white;
 
@@ -81,7 +81,7 @@ footer #footer-content {
 
 #navbar #nav li {
     font-weight: light;
-    color: black;
+    color: white;
 }
 
 #navbar #nav {
@@ -105,10 +105,10 @@ footer #footer-content {
 
 body .sub img {
     max-width: 20%;
-    padding: 1em;
+    padding: 2em 1em 2em 1em;
 }
 body .sub p {
-    padding: 1em;
+    padding: 2em 1em 2em 1em;
 }
 body #don img {
     display: inline-block;
@@ -132,8 +132,11 @@ body #leo img {
 
 body .sub {
     display: inline-block;
+    border-style: solid none solid none;
+    border-width: 1px;
+    border-color: #bdbdbd;
 }
 
-body #left {
+body .left {
     background-color: gray;
 }
