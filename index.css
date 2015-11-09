@@ -1,0 +1,139 @@
+footer {
+    background-color: #bdbdbd;
+}
+
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+#header img {
+    border-radius: 30%;
+    width: 150px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+#header {
+    text-align: center;
+    background-image: url("http://www.caoping8.com/wp-content/uploads/2014/06/popular-landscaping-cheap-kashmir-landscapes-photos-landscape-photos-kerala-kerry-landscapes-photos-kashmir-landscapes-photos-landscape-photos-of-japan-japanese-landscapes-photos-landscape-phot.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+#header h1 {
+    color: white;
+    font-size: 2em;
+    text-shadow: 1px 2px 4px #000000;
+    font-weight: lighter;
+}
+
+section p {
+    text-align: justify;
+}
+
+footer ul li a {
+    text-decoration: none;
+    margin-right: 2em;
+}
+
+footer ul li {
+    list-style: none;
+    text-align: center;
+}
+
+#header #header-content {
+    padding: 1em;
+}
+#navbar ul li {
+    display: inline-block;
+    text-align: center;
+    margin: 0.8em;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+footer #footer-content {
+    padding: 1em;
+}
+
+#footer-content li div {
+    display: inline-block;
+    text-align: center;;
+}
+
+#footer-content li div img {
+    max-width: 40px;
+    margin: 0.1em;
+}
+
+#footer-content li div p {
+    text-decoration: none;
+    color: black;
+}
+
+#footer-content li div p:hover {
+    font-weight: bold;
+}
+
+#navbar #nav li {
+    font-weight: light;
+    color: black;
+}
+
+#navbar #nav {
+    margin: auto;
+    text-align: center;
+}
+
+#navbar #nav div:hover {
+    background-color: #546270;
+}
+
+#navbar #nav div {
+    display: inline-block;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: #718ea6;
+}
+
+body .sub img {
+    max-width: 20%;
+    padding: 1em;
+}
+body .sub p {
+    padding: 1em;
+}
+body #don img {
+    display: inline-block;
+    float: left;
+}
+
+body #mike img {
+    display: inline-block;
+    float: left;
+}
+
+body #raph img {
+    display: inline-block;
+    float: right;
+}
+
+body #leo img {
+    display: inline-block;
+    float: right;
+}
+
+body .sub {
+    display: inline-block;
+}
+
+body #left {
+    background-color: gray;
+}
